@@ -1,0 +1,5 @@
+# Secrets and credentials
+.env
+# Ignore config folder (where secrets live)
+travel-data-etl/config/
+
